@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'MuShan Blog - 风雨正好我该去写点诗句.',
+  title: 'MuShan Blog',
   author: 'MuShan',
   email: 'fouliny@gmail.com',
   link: 'https://blog.siwu.cc',
-  description: '',
+  description: '风雨正好我该去写点诗句.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
